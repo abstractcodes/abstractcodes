@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4E16AQGlpcWAfk9gFw/profile-displaybackgroundimage-shrink_350_1400/0/1640405542973?e=1717027200&v=beta&t=AlYVYEBm5qWypXY45S310XIgDnGbf5cGpVyZjATn2uM)
 <h1 align="center">Hi 👋, I'm Rishit Singh Grover</h1>
 <h3 align="center">A passionate computer science student from University Of Alberta</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/boy-studying-with-laptop-illustration_24911-114643.jpg?w=996&t=st=1711678550~exp=1711679150~hmac=947d37c3d160afe684430e850dd952df9d85f6861dbb7a507fe5b3b2b6d158c9">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1_7SLBymDaSk7aWK1cwUdK9hCkHFemOJF/view?usp=sharing">
 
 - 🔭 I’m currently working on **Desktop Cleaner**
 
