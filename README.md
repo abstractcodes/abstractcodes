@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishit Singh Grover</h1>
 <h3 align="center">A passionate computer science student from University Of Alberta</h3>
 
-- 🔭 I’m currently working on **Desktop Cleaner**
+- 🔭 I’m currently working on **Python Projects**
 
 - 🌱 I’m currently learning **Django & Flask**
 
