@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rishit Singh Grover</h1>
 <h3 align="center">A passionate computer science student from University Of Alberta</h3>
-<img align="right" alt="Coding" width="400" src="[https://drive.google.com/file/d/1_7SLBymDaSk7aWK1cwUdK9hCkHFemOJF/view?usp=sharing](https://www.vecteezy.com/video/26273669-website-coding-web-development-application-developmen-otion-graphic-motion-2d-animation-4k-footage-video)">
 
 - 🔭 I’m currently working on **Desktop Cleaner**
 
 - 🌱 I’m currently learning **Django & Flask**
 
-- 👯 I’m looking to collaborate on **FinReal**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with **Queries Related to Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abstractcodes](https://github.com/abstractcodes)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/rishit-singh-grover/](https://www.linkedin.com/in/rishit-singh-grover/)
+- 📝 I am somewhat active on [https://www.linkedin.com/in/rishit-singh-grover/](https://www.linkedin.com/in/rishit-singh-grover/)
 
 - 💬 Ask me about **Python, Java, & SQL**
 
